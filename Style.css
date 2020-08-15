@@ -1,0 +1,35 @@
+.container{
+	margin-top:5px;
+}
+
+#heading{
+	border:;
+	height:14%;
+	background-color:0dac85;
+
+
+}
+
+
+#body{
+	border:;
+	height:75%;
+}
+
+#navigation{
+	background-color:5fa9bb;
+}
+
+#content{
+
+}
+
+#footer{
+		height:4%;
+		background-color:0dac85;
+}
+
+p{
+	text-align:center;
+
+}
